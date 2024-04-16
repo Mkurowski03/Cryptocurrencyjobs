@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script monitors the Cryptocurrency Jobs website for new listings and sends alerts via Telegram. It automates the process of checking for new job listings every 5 minutes, formats the details, and sends a notification if new jobs are found.
+This Python script monitors `cryptocurrencyjobs.co` website for new listings and sends alerts via Telegram. It automates the process of checking for new job listings every 5 minutes, formats the details, and sends a notification if new jobs are found.
 
 ## Features
 
